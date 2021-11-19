@@ -7,6 +7,6 @@
     2. imblearn (https://github.com/scikit-learn-contrib/imbalanced-learn)
     3. lightgbm (https://github.com/microsoft/LightGBM)
 
-* Testing: python3 main.py
+* Testing: `python3 main.py`
 
 * BESS is compatible with most sklearn APIs but is not strictly tested.
