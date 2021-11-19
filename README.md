@@ -6,3 +6,7 @@
     1. sklearn
     2. imblearn
     3. lightgbm
+
+* Testing: python3 main.py
+
+* BESS is compatible with most sklearn APIs but is not strictly tested.
