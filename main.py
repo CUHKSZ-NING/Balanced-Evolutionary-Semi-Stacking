@@ -13,7 +13,6 @@ from BalancedEvolutionarySemiStacking import BalancedEvolutionarySemiStacking
 
 def test_run():
     dataset_name = 'biomedical'
-    # dataset_name = 'imb_datasets'  # extensive datasets
 
     data = joblib.load('dataset/' + dataset_name + '.pkl')
 
@@ -68,7 +67,7 @@ def test_run():
 
             print_results(results, n_rounds)
 
-    print('Final results after %d rounds of %d-fold CV:\n' % (n_rounds, k_fold))
+    print('Final results after %d rounds of %d-fold CV:' % (n_rounds, k_fold))
     print_results(results, n_rounds)
 
 
