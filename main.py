@@ -24,8 +24,8 @@ def test_run():
         print('%d / %d: %.2f (%d) <---- %s' % (minor, minor + major, major / minor, attributes, key))
     print('')
 
-    n_rounds = 2
-    k_fold = 3
+    n_rounds = 5
+    k_fold = 5
     paras = {'ratio_train': 0.2,
              'balanced': False,
              'semi_supervised': True,
