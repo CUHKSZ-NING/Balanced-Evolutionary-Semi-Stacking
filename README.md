@@ -4,7 +4,7 @@
 
 * Required Python 3 packages: 
     1. sklearn
-    2. imblearn
+    2. imblearn (https://github.com/scikit-learn-contrib/imbalanced-learn)
     3. lightgbm
 
 * Testing: python3 main.py
