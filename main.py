@@ -25,7 +25,7 @@ def test_run():
 
     n_rounds = 5
     k_fold = 5
-    paras = {'ratio_train': 0.2,
+    paras = {'ratio_train': 0.5,
              'balanced': False,
              'semi_supervised': True,
              'unlabeled_samples': False  # whether adding extra unlabeled data
