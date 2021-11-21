@@ -11,6 +11,8 @@
 
 * Testing: `python3 main.py`
 
-* Usage: `from BalancedEvolutionarySemiStacking import BalancedEvolutionarySemiStacking as BESS`
+* Import: `from BalancedEvolutionarySemiStacking import BalancedEvolutionarySemiStacking`
 
+* Train: `fit(X, y)`
 
+* Predict: `predict(X)` or `predict_proba(X)`
