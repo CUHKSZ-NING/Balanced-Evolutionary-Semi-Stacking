@@ -13,6 +13,6 @@
 
 * Import: `from BalancedEvolutionarySemiStacking import BalancedEvolutionarySemiStacking`
 
-* Train: `fit(X, y)`
+* Train: `fit(X, y)`, with target `-1` as the unlabeled data, `0` as the majority class, and `1` as the minority class.
 
 * Predict: `predict(X)` or `predict_proba(X)`
