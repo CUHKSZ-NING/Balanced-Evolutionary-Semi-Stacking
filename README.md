@@ -9,7 +9,7 @@
 
 * BESS is compatible with most sklearn APIs but is not strictly tested.
 
-* Testing: `python3 main.py`
+* Running: `python3 main.py`
 
 * Import: `from BalancedEvolutionarySemiStacking import BalancedEvolutionarySemiStacking`
 
