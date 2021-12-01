@@ -1,7 +1,5 @@
 # Balanced-Evolutionary-Semi-Stacking
 
-* Code for the paper ''BESS: Balanced Evolutionary Semi-Stacking for Disease Detection on Partially Labeled Imbalanced Data'' by Zhihan Ning et al. It is a hybrid framework for imbalanced semi-supervised learning.
-
 * Required Python 3 packages: 
     1. sklearn (https://github.com/scikit-learn/scikit-learn)
     2. imblearn (https://github.com/scikit-learn-contrib/imbalanced-learn)
