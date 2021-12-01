@@ -433,7 +433,7 @@ class BalancedEvolutionarySemiStacking(object):
                     population_new[key][i]['views'] = deepcopy(units[i]['views'])
                     population_new[key][i]['samples'] = deepcopy(units[i]['samples'])
                 else:
-                    pair = random.sample(range(0, int(self.population_size_)), 2)
+                    pair = random.sample(range(0, int(self.population_size_ / 2)), 2)
                     vector_views = deepcopy(units[pair[0]]['views'])
                     vector_samples = deepcopy(units[pair[0]]['samples'])
                     for j in range(0, len(vector_views)):
