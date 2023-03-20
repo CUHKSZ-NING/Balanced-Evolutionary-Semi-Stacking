@@ -1,6 +1,6 @@
 # Balanced-Evolutionary-Semi-Stacking
 
-* Code for paper Ning, Zhihan, et al. "BESS: Balanced evolutionary semi-stacking for disease detection using partially labeled imbalanced data." Information Sciences 594 (2022): 233-248.
+* Code for paper `Ning, Zhihan, et al. "BESS: Balanced evolutionary semi-stacking for disease detection using partially labeled imbalanced data." Information Sciences 594 (2022): 233-248.`
 
 * Required Python 3 packages: 
     1. sklearn (https://github.com/scikit-learn/scikit-learn)
